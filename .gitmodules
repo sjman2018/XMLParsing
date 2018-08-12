@@ -1,0 +1,3 @@
+[submodule "XMLParsing/Alamofire"]
+	path = XMLParsing/Alamofire
+	url = https://github.com/Alamofire/Alamofire.git
